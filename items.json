@@ -1,10 +1,50 @@
 {
 "hasNext": false,
-"items": [
-{
-"a1_cgc": "38342172635",
-"a1_cod": "TEXHMP",
-"a1_nome": "TDI TESTE SUSTENTACAO INOVACAO 1 TESTE ZENDESK"
-}
-]
+"items":[
+      {
+         "A1_COD":"000001",
+         "A1_LOJA":"00",
+         "A1_NOME":"CLIENTE TESTE 01",
+         "A1_CGC":"41233394866",         
+         "detail":[
+            {
+               "Codigo":"999999",
+               "Loja":"00",
+               "Nome":"Cliente Principal",
+               "CNPJ":"97755444"
+            },
+            {
+               "Codigo":"999998",
+               "Loja":"00",
+               "Nome":"Cliente Principal 2",
+               "CNPJ":"97755444"
+            }
+         ]
+      },
+      {
+         "A1_COD":"000002",
+         "A1_LOJA":"00",
+         "A1_NOME":"CLIENTE TESTE 02",
+         "A1_CGC":"41233394866",         
+         "detail":[
+            {
+               "Codigo":"999999",
+               "Loja":"00",
+               "Nome":"Cliente Principal 3",
+               "CNPJ":"97755444"
+            },
+            {
+               "Codigo":"999998",
+               "Loja":"00",
+               "Nome":"Cliente Principal 4",
+               "CNPJ":"97755444"
+            }
+         ]
+      },{
+         "A1_COD":"000003",
+         "A1_LOJA":"00",
+         "A1_NOME":"CLIENTE TESTE 03",
+         "A1_CGC":"41233394866" 
+      }
+   ]
 }
